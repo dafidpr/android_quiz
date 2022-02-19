@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="btnA">A</string>
+    <string name="btnB">B</string>
+    <string name="btnC">C</string>
+    <string name="btnD">D</string>
+    <string name="btnE">E</string>
+    <string name="btnF">F</string>
+    <string name="btnG">G</string>
+    <string name="btnH">H</string>
+    <string name="btnI">I</string>
+    <string name="btnJ">J</string>
+    <string name="btnK">K</string>
+    <string name="btnL">L</string>
+    <string name="btnM">M</string>
+    <string name="btnN">N</string>
+    <string name="btnO">O</string>
+    <string name="btnP">P</string>
+    <string name="title">Puzzle Angka</string>
+</resources>
